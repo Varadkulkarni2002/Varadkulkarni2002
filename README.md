@@ -34,3 +34,13 @@ class VaradKulkarni(AIEngineer, MLOpsSpecialist):
 
     def current_focus(self):
         return "Building highly accurate, multi-angle inspection POCs and end-to-end LLM workflows."
+
+        ---
+### 🐍 Contribution Graph
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varadkulkarni2002/Varadkulkarni2002/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varadkulkarni2002/Varadkulkarni2002/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Varadkulkarni2002/Varadkulkarni2002/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
