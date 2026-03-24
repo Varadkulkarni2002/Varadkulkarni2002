@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,30:6B21A8,60:DB2777,100:1a0033&height=220&section=header&text=VARAD%20KULKARNI&fontSize=52&fontColor=F9A8D4&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Edge%20AI%20%7C%20MLOps&descAlignY=60&descSize=17&descColor=E879F9&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1100&color=E879F9&center=true&vCenter=true&width=750&lines=⚡+AI%2FML+Engineer+%40+Anand+Group+India;🎓+M.Tech+Applied+AI+·+VNIT+Nagpur;🔬+Industrial+Computer+Vision+%26+Defect+Detection;🤖+LLM+Systems+%7C+Prompt+Engineering+%7C+MLOps;🍓+Edge+AI+on+Raspberry+Pi+%7C+TFLite+Pipelines;🛠️+End-to-End+Builder+—+Sensor+to+Server" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1100&color=E879F9&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%40+Anand+Group+India;M.Tech+Applied+AI+%7C+VNIT+Nagpur;Industrial+Computer+Vision+%26+Defect+Detection;LLM+Systems+%7C+Prompt+Engineering+%7C+MLOps;Edge+AI+on+Raspberry+Pi+%7C+TFLite+Pipelines;End-to-End+Builder+from+Sensor+to+Server" alt="Typing SVG" />
 </a>
 
 <br/><br/>
